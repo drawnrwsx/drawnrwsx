@@ -1,3 +1,3 @@
 ### lol 👋
 
-portfólio: drawnrwsx.github.io
+portfólio: https://drawnrwsx.github.io
